@@ -1,0 +1,13 @@
+.idea/*
+.vs/*
+Binaries/*
+Build/*
+Content/StarterContent/HDRI/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Plugins/Developer/*
+Plugins/*/Binaries/*
+Plugins/*/Intermediate/*
+Plugins/*/Build/*
+Plugins/*/Saved/*
