@@ -7,13 +7,17 @@
 		{
 			"Name": "FPSWithDLC",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
 		{
 			"Name": "ScooterUtils",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
